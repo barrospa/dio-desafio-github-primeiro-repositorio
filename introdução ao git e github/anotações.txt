@@ -1,0 +1,3 @@
+o git é distribuido
+markdown é uma linguagem facilitadora ao escrever em editores de texto que possa ler .md
+git bash é um terminal 
