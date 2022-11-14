@@ -1,3 +1,13 @@
-o git é distribuido
-markdown é uma linguagem facilitadora ao escrever em editores de texto que possa ler .md
-git bash é um terminal 
+o git é distribuido.
+
+markdown é uma linguagem facilitadora ao escrever em editores de texto que possa ler .md.
+
+git bash é um terminal.
+
+temos blobs, trees e commits
+
+é possível clonar repositórios
+
+é preciso configurar o git
+
+ao clicar com o botão direito em uma tela é possível iniciar o GitBash a partir dali
